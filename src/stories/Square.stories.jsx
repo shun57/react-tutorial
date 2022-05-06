@@ -1,9 +1,8 @@
 import React from 'react';
-
-import { Square } from '../index';
+import Square from '../Square';
 
 export default {
-  component: Square,  // 対象のコンポーネントを指定
+  component: Square,
   title: 'SquareGame/Square', // Storybookのディレクトリ・ファイル名
   argTypes: { onClick: { action: 'clicked' } },
 };
