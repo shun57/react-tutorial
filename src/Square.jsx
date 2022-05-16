@@ -3,7 +3,7 @@ import styled from '@emotion/styled'
 
 function Square(props) {
   const SquareButton = styled.button({
-      background: '#fff',
+      background: '#f0f8ff',
       border: '1px solid #999',
       float: 'left',
       fontSize: '24px',

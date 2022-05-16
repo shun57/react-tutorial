@@ -16,6 +16,10 @@ ReactDOM.render(
                 ul {
                     padding-left: 30px;
                 }
+
+                li {
+                    margin-bottom: 5px;
+                }
             `}
         />
         <Game />

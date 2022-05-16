@@ -8,7 +8,7 @@ const GameBody = styled.div({
 });
 
 const GameInfo = styled.div({
-  marginLeft: '20px',
+  marginLeft: '15px',
 });
 
 class Game extends React.Component {

@@ -1,3 +1,5 @@
 import initStoryshots from '@storybook/addon-storyshots';
-
-initStoryshots();
+import { createSerializer } from '@emotion/jest';
+initStoryshots({
+  snapshotSerializers: [createSerializer()],
+});

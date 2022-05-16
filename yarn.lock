@@ -1293,6 +1293,14 @@
     "@emotion/sheet" "0.9.4"
     "@emotion/utils" "0.11.3"
 
+"@emotion/css-prettifier@^1.0.1":
+  "integrity" "sha512-cA9Dtol47mtvWKasPC+8tkh2DS0wBkX0MMHKieXGSkGyx079V7yFY85KC0pPalcIy+vi0LbMR9DNyiJBqYgJ1Q=="
+  "resolved" "https://registry.npmjs.org/@emotion/css-prettifier/-/css-prettifier-1.0.1.tgz"
+  "version" "1.0.1"
+  dependencies:
+    "@emotion/memoize" "^0.7.4"
+    "stylis" "4.0.13"
+
 "@emotion/css@^10.0.27":
   "integrity" "sha512-6wZjsvYeBhyZQYNrGoR5yPMYbMBNEnanDrqmsqS1mzDm1cOTu12shvl2j4QHNS36UaTE0USIJawCH9C8oW34Zw=="
   "resolved" "https://registry.npmjs.org/@emotion/css/-/css-10.0.27.tgz"
@@ -1324,6 +1332,17 @@
   "version" "0.8.8"
   dependencies:
     "@emotion/memoize" "0.7.4"
+
+"@emotion/jest@^11.9.1":
+  "integrity" "sha512-JFf9yBA6a7fKrKCWMmjODGRcgBnjiQsl9AakP1y7oRJ6B147ZKPo8DgzHUZ5qQkI06GKAWwYU1vKROInc7SYVA=="
+  "resolved" "https://registry.npmjs.org/@emotion/jest/-/jest-11.9.1.tgz"
+  "version" "11.9.1"
+  dependencies:
+    "@babel/runtime" "^7.13.10"
+    "@emotion/css-prettifier" "^1.0.1"
+    "chalk" "^4.1.0"
+    "specificity" "^0.4.1"
+    "stylis" "4.0.13"
 
 "@emotion/memoize@^0.7.4", "@emotion/memoize@0.7.4":
   "integrity" "sha512-Ja/Vfqe3HpuzRsG1oBtWTHk2PGZ7GR+2Vz5iYGelAw8dx32K0y7PjVuxK6z1nMpZOqAFsRUPCkK1YjJ56qJlgw=="
@@ -3339,7 +3358,7 @@
   dependencies:
     "@types/jest" "*"
 
-"@types/jest@*":
+"@types/jest@*", "@types/jest@^26.0.14 || ^27.0.0":
   "integrity" "sha512-23iPJADSmicDVrWk+HT58LMJtzLAnB2AgIzplQuq/bSrGaxCrlvRFjGbXmamnnk/mAmCdLStiGqggu28ocUyiw=="
   "resolved" "https://registry.npmjs.org/@types/jest/-/jest-27.4.1.tgz"
   "version" "27.4.1"
@@ -13336,6 +13355,11 @@
     "http-deceiver" "^1.2.7"
     "select-hose" "^2.0.0"
     "spdy-transport" "^3.0.0"
+
+"specificity@^0.4.1":
+  "integrity" "sha512-1klA3Gi5PD1Wv9Q0wUoOQN1IWAuPu0D1U03ThXTr0cJ20+/iq2tHSDnK7Kk/0LXJ1ztUB2/1Os0wKmfyNgUQfg=="
+  "resolved" "https://registry.npmjs.org/specificity/-/specificity-0.4.1.tgz"
+  "version" "0.4.1"
 
 "split-string@^3.0.1", "split-string@^3.0.2":
   "integrity" "sha512-NzNVhJDYpwceVVii8/Hu6DKfD2G+NrQHlS/V/qgv763EYudVwEcMQNxd2lh+0VrUByXN/oJkl5grOhYWvQUYiw=="
