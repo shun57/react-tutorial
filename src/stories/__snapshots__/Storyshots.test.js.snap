@@ -3,50 +3,50 @@
 exports[`Storyshots SquareGame/Bord Default 1`] = `
 <div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     />
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     />
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     />
   </div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     />
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     />
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     />
   </div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     />
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     />
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     />
   </div>
@@ -56,66 +56,66 @@ exports[`Storyshots SquareGame/Bord Default 1`] = `
 exports[`Storyshots SquareGame/Bord Default And Triangle 1`] = `
 <div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ○
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ○
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ○
     </button>
   </div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ×
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ×
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ×
     </button>
   </div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
@@ -127,66 +127,66 @@ exports[`Storyshots SquareGame/Bord Default And Triangle 1`] = `
 exports[`Storyshots SquareGame/Bord Star 1`] = `
 <div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ☆
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ☆
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ☆
     </button>
   </div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ☆
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ☆
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ☆
     </button>
   </div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ☆
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ☆
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       ☆
@@ -198,66 +198,66 @@ exports[`Storyshots SquareGame/Bord Star 1`] = `
 exports[`Storyshots SquareGame/Bord Triangle 1`] = `
 <div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
     </button>
   </div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
     </button>
   </div>
   <div
-    className="board-row"
+    className="css-14zlpy1"
   >
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="square"
+      className="css-16ujn8c"
       onClick={[Function]}
     >
       △
@@ -268,64 +268,64 @@ exports[`Storyshots SquareGame/Bord Triangle 1`] = `
 
 exports[`Storyshots SquareGame/Game Default 1`] = `
 <div
-  className="game"
+  className="css-1xhj18k"
 >
   <div
     className="game-board"
   >
     <div>
       <div
-        className="board-row"
+        className="css-14zlpy1"
       >
         <button
-          className="square"
+          className="css-16ujn8c"
           onClick={[Function]}
         />
         <button
-          className="square"
+          className="css-16ujn8c"
           onClick={[Function]}
         />
         <button
-          className="square"
+          className="css-16ujn8c"
           onClick={[Function]}
         />
       </div>
       <div
-        className="board-row"
+        className="css-14zlpy1"
       >
         <button
-          className="square"
+          className="css-16ujn8c"
           onClick={[Function]}
         />
         <button
-          className="square"
+          className="css-16ujn8c"
           onClick={[Function]}
         />
         <button
-          className="square"
+          className="css-16ujn8c"
           onClick={[Function]}
         />
       </div>
       <div
-        className="board-row"
+        className="css-14zlpy1"
       >
         <button
-          className="square"
+          className="css-16ujn8c"
           onClick={[Function]}
         />
         <button
-          className="square"
+          className="css-16ujn8c"
           onClick={[Function]}
         />
         <button
-          className="square"
+          className="css-16ujn8c"
           onClick={[Function]}
         />
       </div>
     </div>
   </div>
   <div
-    className="game-info"
+    className="css-s8vbhp"
   >
     <div>
       次のプレイヤー: X
@@ -345,13 +345,13 @@ exports[`Storyshots SquareGame/Game Default 1`] = `
 
 exports[`Storyshots SquareGame/Square Default 1`] = `
 <button
-  className="square"
+  className="css-16ujn8c"
 />
 `;
 
 exports[`Storyshots SquareGame/Square Star 1`] = `
 <button
-  className="square"
+  className="css-16ujn8c"
 >
   ☆
 </button>
@@ -359,7 +359,7 @@ exports[`Storyshots SquareGame/Square Star 1`] = `
 
 exports[`Storyshots SquareGame/Square Triangle 1`] = `
 <button
-  className="square"
+  className="css-16ujn8c"
 >
   △
 </button>
