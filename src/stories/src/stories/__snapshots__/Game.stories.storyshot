@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots SquareGame/Game Default 1`] = `
+.emotion-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.emotion-1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.emotion-2 {
+  background: #f0f8ff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+}
+
+.emotion-13 {
+  margin-left: 20px;
+}
+
+<div
+  className="emotion-0"
+>
+  <div
+    className="game-board"
+  >
+    <div>
+      <div
+        className="emotion-1"
+      >
+        <button
+          className="emotion-2"
+          onClick={[Function]}
+        />
+        <button
+          className="emotion-2"
+          onClick={[Function]}
+        />
+        <button
+          className="emotion-2"
+          onClick={[Function]}
+        />
+      </div>
+      <div
+        className="emotion-1"
+      >
+        <button
+          className="emotion-2"
+          onClick={[Function]}
+        />
+        <button
+          className="emotion-2"
+          onClick={[Function]}
+        />
+        <button
+          className="emotion-2"
+          onClick={[Function]}
+        />
+      </div>
+      <div
+        className="emotion-1"
+      >
+        <button
+          className="emotion-2"
+          onClick={[Function]}
+        />
+        <button
+          className="emotion-2"
+          onClick={[Function]}
+        />
+        <button
+          className="emotion-2"
+          onClick={[Function]}
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="emotion-13"
+  >
+    <div>
+      次のプレイヤー: X
+    </div>
+    <ol>
+      <li>
+        <button
+          onClick={[Function]}
+        >
+          Go to game start
+        </button>
+      </li>
+    </ol>
+  </div>
+</div>
+`;

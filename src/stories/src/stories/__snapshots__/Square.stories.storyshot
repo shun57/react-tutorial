@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots SquareGame/Square Default 1`] = `
+.emotion-0 {
+  background: #f0f8ff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+}
+
+<button
+  className="emotion-0"
+/>
+`;
+
+exports[`Storyshots SquareGame/Square Star 1`] = `
+.emotion-0 {
+  background: #f0f8ff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+}
+
+<button
+  className="emotion-0"
+>
+  ☆
+</button>
+`;
+
+exports[`Storyshots SquareGame/Square Triangle 1`] = `
+.emotion-0 {
+  background: #f0f8ff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+}
+
+<button
+  className="emotion-0"
+>
+  △
+</button>
+`;
