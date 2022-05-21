@@ -27,16 +27,19 @@ class Board extends React.Component {
           {this.renderSquare(0)}
           {this.renderSquare(1)}
           {this.renderSquare(2)}
+          {this.renderSquare(3)}
         </BordRow>
         <BordRow>
-          {this.renderSquare(3)}
           {this.renderSquare(4)}
           {this.renderSquare(5)}
-        </BordRow>
-        <BordRow>
           {this.renderSquare(6)}
           {this.renderSquare(7)}
+        </BordRow>
+        <BordRow>
           {this.renderSquare(8)}
+          {this.renderSquare(9)}
+          {this.renderSquare(10)}
+          {this.renderSquare(11)}
         </BordRow>
       </div>
     );
