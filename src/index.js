@@ -1,5 +1,10 @@
-import React from 'react';
-import ReactDOM from "react-dom/client";
+import React from "react";
+import ReactDOM from "react-dom";
 import Game from "./Game";
 
-ReactDOM.createRoot(document.getElementById("root")).render(<Game />);
+ReactDOM.render(
+  <React.StrictMode>
+    <Game />
+  </React.StrictMode>,
+  document.getElementById("root")
+);
