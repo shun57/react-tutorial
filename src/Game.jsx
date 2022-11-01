@@ -1,16 +1,12 @@
 import React from "react";
 import Board from "./Board";
-import './index.css';
+import "./index.css";
 
 class Game extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      history: [
-        {
-          squares: Array(9).fill(null),
-        },
-      ],
+      history: props.history,
       stepNumber: 0,
       xIsNext: true,
     };
@@ -58,6 +54,8 @@ class Game extends React.Component {
     let status;
     if (winner) {
       status = "Winner: " + winner;
+    } else if (!current.squares.includes(null)) {
+      status = "Draw!";
     } else {
       status = "Next player: " + (this.state.xIsNext ? "X" : "O");
     }
