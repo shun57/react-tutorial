@@ -130,6 +130,7 @@ describe("The Game Page", () => {
       .eq(1)
       .click();
 
+    cy.get(".game-info div").should("not.contain", "Winner");
     cy.get(".game-info div").should("have.text", "Draw!");
   });
 });
