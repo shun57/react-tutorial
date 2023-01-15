@@ -27,31 +27,18 @@ exports[`Storyshots SquareGame/Bord Default 1`] = `
     className="emotion-0"
   >
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     />
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     />
     <button
-      className="emotion-1"
-      onClick={[Function]}
-    />
-  </div>
-  <div
-    className="emotion-0"
-  >
-    <button
-      className="emotion-1"
-      onClick={[Function]}
-    />
-    <button
-      className="emotion-1"
-      onClick={[Function]}
-    />
-    <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     />
   </div>
@@ -59,15 +46,37 @@ exports[`Storyshots SquareGame/Bord Default 1`] = `
     className="emotion-0"
   >
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     />
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     />
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="emotion-0"
+  >
+    <button
+      className="square emotion-1"
+      data-cy="square"
+      onClick={[Function]}
+    />
+    <button
+      className="square emotion-1"
+      data-cy="square"
+      onClick={[Function]}
+    />
+    <button
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     />
   </div>
@@ -101,19 +110,22 @@ exports[`Storyshots SquareGame/Bord Default And Triangle 1`] = `
     className="emotion-0"
   >
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ○
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ○
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ○
@@ -123,19 +135,22 @@ exports[`Storyshots SquareGame/Bord Default And Triangle 1`] = `
     className="emotion-0"
   >
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ×
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ×
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ×
@@ -145,19 +160,22 @@ exports[`Storyshots SquareGame/Bord Default And Triangle 1`] = `
     className="emotion-0"
   >
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       △
@@ -193,41 +211,22 @@ exports[`Storyshots SquareGame/Bord Star 1`] = `
     className="emotion-0"
   >
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ☆
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ☆
     </button>
     <button
-      className="emotion-1"
-      onClick={[Function]}
-    >
-      ☆
-    </button>
-  </div>
-  <div
-    className="emotion-0"
-  >
-    <button
-      className="emotion-1"
-      onClick={[Function]}
-    >
-      ☆
-    </button>
-    <button
-      className="emotion-1"
-      onClick={[Function]}
-    >
-      ☆
-    </button>
-    <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ☆
@@ -237,19 +236,47 @@ exports[`Storyshots SquareGame/Bord Star 1`] = `
     className="emotion-0"
   >
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ☆
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ☆
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
+      onClick={[Function]}
+    >
+      ☆
+    </button>
+  </div>
+  <div
+    className="emotion-0"
+  >
+    <button
+      className="square emotion-1"
+      data-cy="square"
+      onClick={[Function]}
+    >
+      ☆
+    </button>
+    <button
+      className="square emotion-1"
+      data-cy="square"
+      onClick={[Function]}
+    >
+      ☆
+    </button>
+    <button
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       ☆
@@ -285,41 +312,22 @@ exports[`Storyshots SquareGame/Bord Triangle 1`] = `
     className="emotion-0"
   >
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="emotion-1"
-      onClick={[Function]}
-    >
-      △
-    </button>
-  </div>
-  <div
-    className="emotion-0"
-  >
-    <button
-      className="emotion-1"
-      onClick={[Function]}
-    >
-      △
-    </button>
-    <button
-      className="emotion-1"
-      onClick={[Function]}
-    >
-      △
-    </button>
-    <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       △
@@ -329,19 +337,47 @@ exports[`Storyshots SquareGame/Bord Triangle 1`] = `
     className="emotion-0"
   >
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       △
     </button>
     <button
-      className="emotion-1"
+      className="square emotion-1"
+      data-cy="square"
+      onClick={[Function]}
+    >
+      △
+    </button>
+  </div>
+  <div
+    className="emotion-0"
+  >
+    <button
+      className="square emotion-1"
+      data-cy="square"
+      onClick={[Function]}
+    >
+      △
+    </button>
+    <button
+      className="square emotion-1"
+      data-cy="square"
+      onClick={[Function]}
+    >
+      △
+    </button>
+    <button
+      className="square emotion-1"
+      data-cy="square"
       onClick={[Function]}
     >
       △
@@ -397,31 +433,18 @@ exports[`Storyshots SquareGame/Game Default 1`] = `
         className="emotion-1"
       >
         <button
-          className="emotion-2"
+          className="square emotion-2"
+          data-cy="square"
           onClick={[Function]}
         />
         <button
-          className="emotion-2"
+          className="square emotion-2"
+          data-cy="square"
           onClick={[Function]}
         />
         <button
-          className="emotion-2"
-          onClick={[Function]}
-        />
-      </div>
-      <div
-        className="emotion-1"
-      >
-        <button
-          className="emotion-2"
-          onClick={[Function]}
-        />
-        <button
-          className="emotion-2"
-          onClick={[Function]}
-        />
-        <button
-          className="emotion-2"
+          className="square emotion-2"
+          data-cy="square"
           onClick={[Function]}
         />
       </div>
@@ -429,15 +452,37 @@ exports[`Storyshots SquareGame/Game Default 1`] = `
         className="emotion-1"
       >
         <button
-          className="emotion-2"
+          className="square emotion-2"
+          data-cy="square"
           onClick={[Function]}
         />
         <button
-          className="emotion-2"
+          className="square emotion-2"
+          data-cy="square"
           onClick={[Function]}
         />
         <button
-          className="emotion-2"
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        />
+      </div>
+      <div
+        className="emotion-1"
+      >
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        />
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        />
+        <button
+          className="square emotion-2"
+          data-cy="square"
           onClick={[Function]}
         />
       </div>
@@ -448,6 +493,145 @@ exports[`Storyshots SquareGame/Game Default 1`] = `
   >
     <div>
       次のプレイヤー: X
+    </div>
+    <ol>
+      <li>
+        <button
+          onClick={[Function]}
+        >
+          Go to game start
+        </button>
+      </li>
+    </ol>
+  </div>
+</div>
+`;
+
+exports[`Storyshots SquareGame/Game Draw 1`] = `
+.emotion-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.emotion-1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.emotion-2 {
+  background: #f0f8ff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+}
+
+.emotion-13 {
+  margin-left: 15px;
+}
+
+<div
+  className="emotion-0"
+>
+  <div
+    className="game-board"
+  >
+    <div>
+      <div
+        className="emotion-1"
+      >
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        >
+          O
+        </button>
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        >
+          X
+        </button>
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        >
+          O
+        </button>
+      </div>
+      <div
+        className="emotion-1"
+      >
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        >
+          O
+        </button>
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        >
+          X
+        </button>
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        >
+          O
+        </button>
+      </div>
+      <div
+        className="emotion-1"
+      >
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        >
+          X
+        </button>
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        >
+          O
+        </button>
+        <button
+          className="square emotion-2"
+          data-cy="square"
+          onClick={[Function]}
+        >
+          X
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    className="emotion-13"
+  >
+    <div>
+      Draw!
     </div>
     <ol>
       <li>
@@ -479,7 +663,8 @@ exports[`Storyshots SquareGame/Square Default 1`] = `
 }
 
 <button
-  className="emotion-0"
+  className="square emotion-0"
+  data-cy="square"
 />
 `;
 
@@ -500,7 +685,8 @@ exports[`Storyshots SquareGame/Square Star 1`] = `
 }
 
 <button
-  className="emotion-0"
+  className="square emotion-0"
+  data-cy="square"
 >
   ☆
 </button>
@@ -523,7 +709,8 @@ exports[`Storyshots SquareGame/Square Triangle 1`] = `
 }
 
 <button
-  className="emotion-0"
+  className="square emotion-0"
+  data-cy="square"
 >
   △
 </button>
