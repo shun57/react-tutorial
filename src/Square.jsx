@@ -8,6 +8,7 @@ function Square(props) {
       float: 'left',
       fontSize: '24px',
       fontWeight: 'bold',
+      color: 'red',
       lineHeight: '34px',
       height: '34px',
       marginRight: '-1px',
