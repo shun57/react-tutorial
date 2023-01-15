@@ -1,6 +1,15 @@
 import React from "react";
 import Board from "./Board";
-import "./index.css";
+import styled from "@emotion/styled";
+
+const GameBody = styled.div({
+  display: "flex",
+  flexDirection: "row",
+});
+
+const GameInfo = styled.div({
+  marginLeft: "15px",
+});
 
 class Game extends React.Component {
   constructor(props) {
@@ -57,21 +66,21 @@ class Game extends React.Component {
     } else if (!current.squares.includes(null)) {
       status = "Draw!";
     } else {
-      status = "Next player: " + (this.state.xIsNext ? "X" : "O");
+      status = "次のプレイヤー: " + (this.state.xIsNext ? "X" : "O");
     }
     return (
-      <div className="game">
+      <GameBody>
         <div className="game-board">
           <Board
             squares={current.squares}
             onClick={(i) => this.handleClick(i)}
           />
         </div>
-        <div className="game-info">
+        <GameInfo>
           <div>{status}</div>
           <ol>{moves}</ol>
-        </div>
-      </div>
+        </GameInfo>
+      </GameBody>
     );
   }
 }
