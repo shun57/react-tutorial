@@ -1,25 +1,21 @@
 import React from "react";
 import Board from "./Board";
-import styled from '@emotion/styled'
+import styled from "@emotion/styled";
 
 const GameBody = styled.div({
-  display: 'flex',
-  flexDirection: 'row',
+  display: "flex",
+  flexDirection: "row",
 });
 
 const GameInfo = styled.div({
-  marginLeft: '15px',
+  marginLeft: "15px",
 });
 
 class Game extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      history: [
-        {
-          squares: Array(9).fill(null),
-        },
-      ],
+      history: props.history,
       stepNumber: 0,
       xIsNext: true,
     };
@@ -67,6 +63,8 @@ class Game extends React.Component {
     let status;
     if (winner) {
       status = "Winner: " + winner;
+    } else if (!current.squares.includes(null)) {
+      status = "Draw!";
     } else {
       status = "次のプレイヤー: " + (this.state.xIsNext ? "X" : "O");
     }
